@@ -811,12 +811,12 @@
             <int>713</int>
             <int>714</int>
           </affixes>
-          <comparsion>ANY</comparsion>
-          <comparsionValue>0</comparsionValue>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>7</comparsionValue>
           <minOnTheSameItem>1</minOnTheSameItem>
           <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>1</combinedComparsionValue>
-          <advanced>false</advanced>
+          <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
         </Condition>
       </conditions>
       <color>10</color>
