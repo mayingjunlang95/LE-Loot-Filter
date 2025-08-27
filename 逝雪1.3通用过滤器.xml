@@ -352,7 +352,8 @@
       <conditions>
         <Condition i:type="SubTypeCondition">
           <type>
-            <EquipmentType>BODY_ARMOR</EquipmentType>
+            <EquipmentType>TWO_HANDED_AXE</EquipmentType>
+            <EquipmentType>RELIC</EquipmentType>
           </type>
           <subTypes />
         </Condition>
@@ -820,7 +821,7 @@
         </Condition>
       </conditions>
       <color>10</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent_deprecated>false</levelDependent_deprecated>
       <minLvl_deprecated>0</minLvl_deprecated>
       <maxLvl_deprecated>0</maxLvl_deprecated>
@@ -1718,20 +1719,15 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>841</int>
-            <int>105</int>
-            <int>107</int>
-            <int>124</int>
             <int>853</int>
             <int>895</int>
             <int>829</int>
-            <int>110</int>
             <int>856</int>
             <int>828</int>
             <int>892</int>
             <int>840</int>
             <int>842</int>
             <int>894</int>
-            <int>117</int>
             <int>851</int>
             <int>886</int>
             <int>285</int>
@@ -1744,10 +1740,6 @@
             <int>310</int>
             <int>941</int>
             <int>297</int>
-            <int>115</int>
-            <int>134</int>
-            <int>142</int>
-            <int>321</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>1</comparsionValue>
@@ -2625,23 +2617,17 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>841</int>
-            <int>105</int>
-            <int>107</int>
-            <int>124</int>
             <int>853</int>
             <int>895</int>
             <int>829</int>
-            <int>110</int>
             <int>856</int>
             <int>828</int>
             <int>892</int>
             <int>840</int>
             <int>842</int>
             <int>894</int>
-            <int>117</int>
             <int>851</int>
             <int>886</int>
-            <int>109</int>
             <int>196</int>
             <int>198</int>
             <int>270</int>
@@ -2650,10 +2636,15 @@
             <int>831</int>
             <int>843</int>
             <int>854</int>
-            <int>863</int>
+            <int>864</int>
             <int>872</int>
             <int>878</int>
             <int>862</int>
+            <int>271</int>
+            <int>278</int>
+            <int>279</int>
+            <int>280</int>
+            <int>282</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>1</comparsionValue>
@@ -3459,16 +3450,10 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
-            <int>142</int>
-            <int>105</int>
-            <int>107</int>
-            <int>124</int>
             <int>845</int>
             <int>853</int>
             <int>846</int>
-            <int>319</int>
             <int>829</int>
-            <int>110</int>
             <int>856</int>
             <int>828</int>
             <int>890</int>
@@ -3479,12 +3464,16 @@
             <int>833</int>
             <int>842</int>
             <int>866</int>
-            <int>117</int>
             <int>851</int>
             <int>886</int>
             <int>286</int>
             <int>854</int>
             <int>941</int>
+            <int>925</int>
+            <int>921</int>
+            <int>906</int>
+            <int>895</int>
+            <int>897</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>1</comparsionValue>
